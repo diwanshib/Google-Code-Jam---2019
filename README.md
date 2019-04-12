@@ -1,6 +1,6 @@
 # Google Code Jam 2019
 These are my messy solutions for [Google Code Jam 2019](https://codingcompetitions.withgoogle.com/codejam/archive/2019) in **C++**. May only update after each round so no cheating :)
-
+<!--
 In each folder, the following files can be present:
 * Vanilla files from the problem:
   * `problem.md`: A Markdown-version of the problem
@@ -12,6 +12,7 @@ In each folder, the following files can be present:
   * `solution-sub-P|F|U[+].py`: My best (in most cases, last) attempt, submitted and judged, with results marked in the name. E.g., the solution passed 1st but failed 2nd test set and did not have 3rd set checked would be named `solution-sub-PFU.py`
   * `solution-mod-P|F[+].py`: My best solution submitted after the content, if `solution-sub-P|F[+].py` is not good enough, with results marked in the name. E.g., the solution passed 1st and 2nd test set but failed 3rd would be named `solution-mod-PPF.py`
   * Other files, if present, will be explained in `analysis.md`
+-->
 
 ## Why C++?
 It's good enough; it runs fast enough; I'm used to it.
